@@ -1,0 +1,74 @@
+body {
+    margin: 25px;
+    font-family: "Shadows Into Light";
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    color: white;
+    background-color: black;
+}
+h1 {
+    font-size: 1.5rem;
+    text-align: center;
+}
+#p1 {
+    text-align: center;
+    color: aqua;
+}
+#pic1 {
+    width: 30%;
+    height: auto;
+    margin: 15px 35%;
+}
+a {
+    color: aqua;
+}
+#pic2, #pic3, #pic4, #pic5, #pic6, #pic7, #pic8, #pic9, #pic10, #pic11, #pic12, #pic13 {
+    width: 30%;
+    height: auto;
+    margin: 15px;
+}
+#in1, #in2, #in3, #in4, #in5, #in6 {
+    width: 5%;
+    height: 50px;
+    font-family: "Shadows Into Light";
+    text-align: center;
+    font-size: 1.5rem;
+    color: aqua;
+    background-color: black;
+    border: 2px aqua solid;
+    outline: 1px white solid;
+    margin: 15px;
+}
+#myBtn {
+    width: 15%;
+    height: 50px;
+    font-family: "Shadows Into Light";
+    text-align: center;
+    font-size: 1.5rem;
+    color: aqua;
+    background-color: black;
+    border: 2px aqua solid;
+    outline: 1px white solid;
+    margin: 15px;
+}
+#demo, #demo2, #demo3 {
+    width: 25%;
+    height: 50px;
+    font-family: "Shadows Into Light";
+    text-align: center;
+    font-size: 1.5rem;
+    color: aqua;
+    background-color: black;
+    border: 2px aqua solid;
+    outline: 1px white solid;
+    margin: 15px;
+}
+iframe {
+    margin: 15px 33%;
+    border: 2px aqua solid;
+    outline: 1px white solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
